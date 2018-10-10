@@ -1,1 +1,3 @@
-# wargameWrite-up
+## wargameWrite-up
+
+Wargame Source
